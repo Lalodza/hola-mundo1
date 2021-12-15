@@ -1,1 +1,4 @@
 archivo para hacer un Git pull ;)
+
+se confirma que se genera el git pull
+y ahora se genera un push a remote :)
